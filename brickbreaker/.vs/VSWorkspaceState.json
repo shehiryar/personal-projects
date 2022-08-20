@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\resources",
+    "\\src\\main\\resources\\com",
+    "\\src\\main\\resources\\com\\example",
+    "\\src\\main\\resources\\com\\example\\brickbreaker",
+    "\\target",
+    "\\target\\classes",
+    "\\target\\generated-sources"
+  ],
+  "SelectedNode": "\\src",
+  "PreviewInSolutionExplorer": false
+}
